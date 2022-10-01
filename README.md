@@ -60,15 +60,15 @@ Multiple linear Regression Results with categorical variables.
 *  A change in any of the  above features causes  a (coeeficient of the feature * 100)% change to price of a house.
 # RECOMENDATIONS
 From the model results and tableau dashboard visualization we can come up with the following recommendations.
-From Model 1.
+#From Model 1.
 The square footage of a home has an effect on the price of a house whereby price will increase with increase in footage as per the equation given.
-From Model 2.
+#From Model 2.
 Areas where houses are similar are likely to have a higher prices for houses. This applies in the real world today where people prefer living in gated controlled development estates.
-From Model 3.
+#From Model 3.
 The numeric variables of Kings County housing  have an effect on  the price of a house.
-From Model 4.
+#From Model 4.
 The condition of a house has an effect on the price of the house. House prices increase as the condition level increases.
-From Tableau Dashboard.
+#From Tableau Dashboard.
 The location of a house has an effect on its price. The company should consider a house’s location in calculating its price.
 
 
